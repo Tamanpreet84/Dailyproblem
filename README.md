@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Tamanpreet84/Dailyproblem/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/Tamanpreet84/Dailyproblem/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
 | ------- |
@@ -19,8 +20,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Tamanpreet84/Dailyproblem/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/Tamanpreet84/Dailyproblem/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Tamanpreet84/Dailyproblem/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Tamanpreet84/Dailyproblem/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
