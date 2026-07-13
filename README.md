@@ -41,4 +41,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Tamanpreet84/Dailyproblem/tree/master/0009-palindrome-number) |
+## Tree
+|  |
+| ------- |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/Tamanpreet84/Dailyproblem/tree/master/0559-maximum-depth-of-n-ary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/Tamanpreet84/Dailyproblem/tree/master/0559-maximum-depth-of-n-ary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/Tamanpreet84/Dailyproblem/tree/master/0559-maximum-depth-of-n-ary-tree) |
 <!---LeetCode Topics End-->
