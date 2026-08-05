@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/Tamanpreet84/Dailyproblem/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Tamanpreet84/Dailyproblem/tree/master/0344-reverse-string) |
+| [1143-longest-common-subsequence](https://github.com/Tamanpreet84/Dailyproblem/tree/master/1143-longest-common-subsequence) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -123,4 +124,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Tamanpreet84/Dailyproblem/tree/master/0207-course-schedule) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Tamanpreet84/Dailyproblem/tree/master/1143-longest-common-subsequence) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Tamanpreet84/Dailyproblem/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
