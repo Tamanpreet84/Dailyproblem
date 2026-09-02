@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Tamanpreet84/Dailyproblem/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Tamanpreet84/Dailyproblem/tree/master/0200-number-of-islands) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Tamanpreet84/Dailyproblem/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Tamanpreet84/Dailyproblem/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Tamanpreet84/Dailyproblem/tree/master/0009-palindrome-number) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Tamanpreet84/Dailyproblem/tree/master/3875-construct-uniform-parity-array-i) |
 ## Tree
 |  |
 | ------- |
