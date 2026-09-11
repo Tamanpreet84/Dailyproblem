@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Tamanpreet84/Dailyproblem/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Tamanpreet84/Dailyproblem/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Tamanpreet84/Dailyproblem/tree/master/0200-number-of-islands) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Tamanpreet84/Dailyproblem/tree/master/3483-unique-3-digit-even-numbers) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Tamanpreet84/Dailyproblem/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Tamanpreet84/Dailyproblem/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Tamanpreet84/Dailyproblem/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Tamanpreet84/Dailyproblem/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Tamanpreet84/Dailyproblem/tree/master/0242-valid-anagram) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Tamanpreet84/Dailyproblem/tree/master/3483-unique-3-digit-even-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -141,4 +143,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Tamanpreet84/Dailyproblem/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Tamanpreet84/Dailyproblem/tree/master/3483-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Tamanpreet84/Dailyproblem/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
